@@ -19,10 +19,7 @@ namespace cirkus4
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //Push?! VART HAMNA DETTA?!?!?
-
-            //Jill test igen!
-            //dilans txt
+           /// TOK allt är bara TOK
         }
     }
 }
