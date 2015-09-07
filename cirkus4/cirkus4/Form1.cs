@@ -39,5 +39,17 @@ namespace cirkus4
         {
 
         }
+
+        private void button39_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        public void knappfarg()
+        {
+
+
+        }
+        
     }
 }
