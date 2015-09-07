@@ -21,5 +21,10 @@ namespace cirkus4
         {
             MessageBox.Show("Martins knapp");
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
