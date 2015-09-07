@@ -21,8 +21,8 @@ namespace cirkus4
         {
             //Push?! VART HAMNA DETTA?!?!?
 
-            //Jill test igen!!!!
-
+            //Jill test igen!
+            //dilans txt
         }
     }
 }
