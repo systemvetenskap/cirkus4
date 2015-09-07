@@ -19,7 +19,7 @@ namespace cirkus4
 
         private void button1_Click(object sender, EventArgs e)
         {
-           /// TOK allt är bara TOK
+            button1.BackColor = Color.Red;
         }
     }
 }
